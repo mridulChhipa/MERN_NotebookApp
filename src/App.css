@@ -1,0 +1,10 @@
+@font-face {
+    font-family: logoFont;
+    src: url(AntonSC-Regular.ttf);
+}
+.navbar-brand {
+    font-family: logoFont;
+}
+.nav-link.active {
+    font-weight: 700;
+}
